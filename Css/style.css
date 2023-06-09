@@ -1,0 +1,209 @@
+/* ------------------------------Basic Css Stard----------------------------- */
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul,ol,li,a{
+    list-style: none;
+    text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6,a,ul,ol,li,p{
+    margin: 0;
+    padding: 0; 
+}
+
+/* ------------------------------Basic Css end----------------------------- */
+
+/* -- -------------------------Manu Part Start------------------------------ --> */
+.navbar{
+
+}
+.navbar .collapse{  
+}
+
+/* -- -------------------------Manu Part end------------------------------ -- */
+/* -- -----------------------Slider  Part Start------------------------------ -- */
+.slider_about{
+    padding: 10% 0 10% 0;
+}
+.slider_about .text_item{
+    color: #0E7AE6;
+    padding: 40% 0 0 0 ;
+}
+.slider_about .text_item h3{
+    font-size: 40px;
+    font-style: oblique;
+    padding: 0 0 5px 0;
+}
+.slider_about .text_item h1{
+    font-size: 70px;
+    font-weight: bold;
+    padding: 0 0 5px 0;
+}
+.slider_about .text_item p{
+    color: #000;
+    padding: 5px 0 10px 0;
+}
+.slider_about .text_item button{
+    background-color: #0E7AE6;
+    padding: 10px 20px;
+    color: #fff;
+}
+
+/* --------------------------Slider  Part End------------------------------ -- */
+/* --------------------------About  Part Start------------------------------ -- */
+.slider_about_me{ 
+    padding: 10px 0 40px 0;
+}
+.slider_about_me .Content_img{
+     
+}
+.slider_about_me .Content_img .img_bg{
+    width: 505px;
+    height: 598px;
+    background: red;
+    padding: 50px;
+    position: absolute; 
+}
+.slider_about_me .Content_img img{  
+    padding: 20px 0 0 20px;
+    background: red;
+    position: relative;
+    
+}
+.slider_about_me .text_item{
+    padding: 20% 0 20% 0 ;
+}
+.slider_about_me .text_item h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #0E7AE6;
+    padding: 0px 0 5px 0;
+}
+.slider_about_me .text_item p{
+    text-align: justify;
+    font-size: 20px;
+    padding: 0px 0px 10px 0;
+}
+.slider_about_me .text_item button{
+    background: #0E7AE6;
+    padding: 10px 25px;
+    font-size: 20px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+/*  -------------------------About  Part End------------------------------ -- */
+/* --------------------------Work  Part Start------------------------------ -- */
+.Work_part{
+    padding:  5% 0 5% 0;
+}
+.Work_part .text_part{
+    text-align: center;
+}
+.Work_part .text_part h2{
+    font-size: 80px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #0E7AE6;
+}
+.Work_part .text_part p{
+    font-size: 20px;
+    padding: 10px;
+}
+.Work_part .img_part{
+    padding:  5% 0 0 0;
+}
+/* --------------------------Work  Part Start------------------------------ -- */
+.Last_work{
+    padding: 10% 0 10% 0;
+}
+.Last_work .text_part{ 
+ 
+}
+.Last_work .text_part h2{ 
+    font-size: 80px;
+    font-weight: bold;
+    padding:0 0 2% 0;
+    text-transform:capitalize ;
+}
+.Last_work .text_part p{
+    font-size: 30px;
+    color: #FF0000;
+    text-transform: capitalize;
+    padding: 0 0 2% 15%;
+}
+.Last_work .work_img img{
+    border-radius: 100px;
+}
+/*  -------------------------Work  Part End------------------------------ -- */
+/* --------------------------Info  Part Start------------------------------ -- */
+.Contact-info{
+    padding:  5% 0 5% 0;
+}
+.Contact-info .text_part h2{
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #0E7AE6;
+}
+.Contact-info .text_part p{
+    font-size: 20px;
+    padding: 10px;
+}
+/*  -------------------------Info  Part End------------------------------ -- */
+/* -- -----------------------Last Work  Part Start------------------------------ -- */
+.Contact_part .contact input{
+    border: none;
+    border-bottom: 2px solid black;
+    margin: 30px 0 60px 60px;
+    width: 500px;
+}
+.Contact_part .contact .text_box{
+    border: 2px solid black;
+    width: 500px;
+    height: 200px;
+}
+.Contact_part .contact button{
+     
+    margin: 0 0 60px 60px;
+    border-radius: 20px;
+    padding: 10px 40px;
+    font-size: 20px;
+}
+/* -- -----------------------Last Work  Part end------------------------------ -- */
+/* -- -----------------------Contact  Part Start------------------------------ -- */
+.footer{
+    background: #c7d1da;
+    padding:  30px 0 30px 0;
+}
+.footer .socail_media ul li{
+    display: flex;     
+ 
+}
+/* --------------------------Contact  Part end------------------------------ -- */
+/* -- -----------------------Footer  Part Stard------------------------------ -- */
+
+/* --------------------------Footer  Part end------------------------------ -- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
